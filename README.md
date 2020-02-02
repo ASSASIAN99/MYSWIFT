@@ -1,2 +1,2 @@
 # MYSWIFT
- A 2 Dimentional iOS game, Supported iPhone 4 and higher.
+ A 2 Dimentional iOS game programmed in Swift Language using Xcode.
