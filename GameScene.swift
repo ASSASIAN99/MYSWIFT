@@ -110,7 +110,6 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
     }
     
     override func didMoveToView(view: SKView) {
-        /* Setup your scene here */
         
         createScene()
         
